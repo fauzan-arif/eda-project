@@ -1,4 +1,4 @@
-# First Project - Data Analysis
+# Exploratory Data Analysis
 
 This project is centered around exploratory data
 analysis techniques and presentation of results to a client.

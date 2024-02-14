@@ -1,13 +1,39 @@
-# ds-project-template
+## Project Overview 
 
-Template for creating ds simple projects
+The main notebook in this project is EDA.ipynb. Column_names file has explanation of the varous columns. 
 
-## Requirements
+### Exploratory Data Analysis
+
+This project is centered around exploratory data analysis techniques and presentation of results to a client.
+
+### The client Overview: 
+                                                                                                               
+Charles Christensen is a seller who invests with big returns, he is wondering about renovation?, which Neighborhood? Timing?                                                                                
+### The data
+
+- I will use the King County Housing Data: This dataset contains information about home sales in King County (USA).
+- I will find the data in the eda schema of our database. 
+- I have used DBeaver to explore the data and do the necessary querrying and joining the table
+
+### The Tasks
+
+1. Through EDA/statistical analysis above please come up with **AT LEAST 3 insights** regarding the overall data. One should be geographical.
+
+2. In addition also come up with **AT LEAST 3 recommendations** for your client.
+
+_Note, I took the perspective of a property investor. 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Instalation Setup
+
+### Requirements
 
 - pyenv
 - python==3.11.3
 
-## Setup
+### Setup
 
 One of the first steps when starting any data science project is to create a virtual environment. For this project you have to create this environment from scratch yourself. However, you should be already familiar with the commands you will need to do so. The general workflow consists of... 
 
